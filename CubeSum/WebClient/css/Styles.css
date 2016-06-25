@@ -1,0 +1,56 @@
+﻿body {
+}
+
+.MainDiv
+{
+    width: 100%;
+    text-align:center;
+}
+
+.MainDiv .Commands
+{
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+.MainDiv .Button
+{
+    padding-bottom: 10px;
+}
+
+
+#MainContent_btnDraw
+{
+    background-color:#4b6c9e;
+    color:#f9f9f9;    
+    font-size: 1.2em;
+}
+
+.MainDiv .Table
+{
+    
+}
+
+.MainDiv .ShowGrid
+{
+    padding-bottom: 20px;
+}
+
+.Canvas tr,td
+{    
+    width: 100%;
+    border: 1px solid black;
+    width: 10px;
+    height: 10px;
+    text-align: center;
+    border-collapse:collapse;
+    border-spacing: 0;
+}
+
+table 
+{    
+    width: 100%;
+    border-collapse:collapse;
+    padding-bottom: 10px;
+    background-color:#e2e3e5;
+}

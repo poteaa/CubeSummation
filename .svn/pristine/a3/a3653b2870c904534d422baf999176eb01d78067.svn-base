@@ -1,0 +1,99 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Text.RegularExpressions;
+using System.Threading.Tasks;
+using System.Xml.Linq;
+
+namespace CubeSumBusiness
+{
+    class ExpressionValidator
+    {
+        private XDocument xdoc;
+        private List<Expression> expressions;
+
+        public List<Expression> Expressions
+        {
+            get { return expressions; }
+            set { expressions = value; }
+        }
+
+        /// <summary>
+        /// Constructor
+        /// </summary>
+        /// <param name="expression">Expression</param>
+        public ExpressionValidator(string expression)
+        {
+            xdoc = XDocument.Parse(expression);
+            expressions = CreateExpressions();
+        }
+
+
+        /// <summary>
+        /// Validates expression
+        /// </summary>
+        /// <returns>True if the expression is valid</returns>
+        public bool IsValid(ref string error)
+        {
+            bool valid = false;
+            int testcases = Convert.ToInt16(xdoc.Root.Attribute("testcases").Value);
+            int matrixes = xdoc.Root.Elements("MATRIX").Count();
+            if (testcases != matrixes)
+            {
+                error = "Test cases number different from given test cases";
+            }
+            else if (expressions.Count() != ValidExpressions().Count())
+            {
+                error = "Operations number different from given operations in one or more";
+            }
+            else
+            {
+                valid = true;
+            }
+
+            return valid;
+        }
+
+        private List<Expression> CreateExpressions()
+        {
+            List<Expression> retExp = new List<Expression>();
+            var exps = from elem in xdoc.Root.Elements("MATRIX")
+                       where elem.Attribute("OPERATIONS").Value.Equals(elem.Elements("QUERIES").Elements().Count().ToString())
+                       select new Expression
+                       {
+                           size = Convert.ToInt32(elem.Attribute("SIZE").Value),
+                           operations = Convert.ToInt32(elem.Attribute("OPERATIONS").Value),
+                           queries = (List<Query>)(from query in elem.Elements("QUERIES").Elements()
+                                     select new Query 
+                                     {
+                                         query = query.Value.Split(' ')[0],
+                                         parameters = query.Value.Split(' ').Skip(1).ToList()
+                                     }).ToList()
+                       };
+
+            if (exps.Count() > 0)
+            {
+                retExp = (List<Expression>)exps.ToList();
+            }
+
+            return retExp;
+        }
+
+        private List<Expression> ValidExpressions()
+        {
+            List<Expression> retExp = new List<Expression>();
+            var exps = from exp in expressions
+                       where exp.ValidateQueries()
+                       select exp;
+
+            if (exps.Count() > 0)
+            {
+                retExp = (List<Expression>)exps.ToList();
+            }
+
+            return retExp;
+        }
+
+    }
+}

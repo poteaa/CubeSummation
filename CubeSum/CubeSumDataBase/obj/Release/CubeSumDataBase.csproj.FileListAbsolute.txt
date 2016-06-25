@@ -1,0 +1,9 @@
+C:\Diego\Tests\Grability Rappi\Grability Rappi\CubeSum\CubeSumDataBase\bin\Release\CubeSumDataBase.dll.config
+C:\Diego\Tests\Grability Rappi\Grability Rappi\CubeSum\CubeSumDataBase\bin\Release\CubeSumDataBase.dll
+C:\Diego\Tests\Grability Rappi\Grability Rappi\CubeSum\CubeSumDataBase\bin\Release\CubeSumDataBase.pdb
+C:\Diego\Tests\Grability Rappi\Grability Rappi\CubeSum\CubeSumDataBase\bin\Release\EntityFramework.dll
+C:\Diego\Tests\Grability Rappi\Grability Rappi\CubeSum\CubeSumDataBase\bin\Release\EntityFramework.SqlServer.dll
+C:\Diego\Tests\Grability Rappi\Grability Rappi\CubeSum\CubeSumDataBase\bin\Release\EntityFramework.xml
+C:\Diego\Tests\Grability Rappi\Grability Rappi\CubeSum\CubeSumDataBase\bin\Release\EntityFramework.SqlServer.xml
+C:\Diego\Tests\Grability Rappi\Grability Rappi\CubeSum\CubeSumDataBase\obj\Release\CubeSumDataBase.dll
+C:\Diego\Tests\Grability Rappi\Grability Rappi\CubeSum\CubeSumDataBase\obj\Release\CubeSumDataBase.pdb

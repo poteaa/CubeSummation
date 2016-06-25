@@ -1,0 +1,10 @@
+C:\Diego\Tests\Grability Rappi\Grability Rappi\CubeSum\DataBase\bin\Debug\DataBase.dll.config
+C:\Diego\Tests\Grability Rappi\Grability Rappi\CubeSum\DataBase\bin\Debug\DataBase.dll
+C:\Diego\Tests\Grability Rappi\Grability Rappi\CubeSum\DataBase\bin\Debug\DataBase.pdb
+C:\Diego\Tests\Grability Rappi\Grability Rappi\CubeSum\DataBase\bin\Debug\EntityFramework.dll
+C:\Diego\Tests\Grability Rappi\Grability Rappi\CubeSum\DataBase\bin\Debug\EntityFramework.SqlServer.dll
+C:\Diego\Tests\Grability Rappi\Grability Rappi\CubeSum\DataBase\bin\Debug\EntityFramework.xml
+C:\Diego\Tests\Grability Rappi\Grability Rappi\CubeSum\DataBase\bin\Debug\EntityFramework.SqlServer.xml
+C:\Diego\Tests\Grability Rappi\Grability Rappi\CubeSum\DataBase\obj\Debug\DataBase.dll
+C:\Diego\Tests\Grability Rappi\Grability Rappi\CubeSum\DataBase\obj\Debug\DataBase.pdb
+C:\Diego\Tests\Grability Rappi\Grability Rappi\CubeSum\DataBase\obj\Debug\DataBase.csprojResolveAssemblyReference.cache

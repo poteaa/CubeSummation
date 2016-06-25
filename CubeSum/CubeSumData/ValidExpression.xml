@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<expression>
+  <exp operation="UPDATE">^UPDATE (\d+( )*){4}$</exp>
+  <exp operation="QUERY">^QUERY (\d+( )*){6}$</exp>
+</expression>
+  

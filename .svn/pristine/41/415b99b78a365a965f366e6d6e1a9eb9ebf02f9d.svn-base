@@ -1,0 +1,71 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace CubeSumBusiness
+{
+    public class Cube
+    {
+        private int width;
+        private int height;
+        private int length;
+
+        private Cell[, ,] matrix; 
+
+        public int Width
+        {
+            get { return width; }
+            set { width = value; }
+        }
+
+        public int Height
+        {
+            get { return height; }
+            set { height = value; }
+        }
+
+        public int Length
+        {
+            get { return length; }
+            set { length = value; }
+        }
+
+        public Cube(int N)
+        {
+            this.width = N;
+            this.height = N;
+            this.length = N;
+
+            matrix = new Cell[N, N, N];
+        }
+
+        public int Query(Cell initial, Cell final)
+        {
+            if(initial == final)
+            {
+                return final.value;
+            }
+            else if (initial.x > final.x && initial.y > final.y && initial.z > final.z)
+            {
+                return 0;
+            }
+            else
+            {
+                Cell cellx = new Cell(initial.x + 1, initial.y, initial.z);
+                Cell celly = new Cell(initial.x, initial.y + 1, initial.z);
+                Cell cellz = new Cell(initial.x, initial.y, initial.z + 1);
+
+                return initial.value + Query(cellx, final) + Query(cellz, final) + Query(cellz, final); 
+            }
+
+        }
+
+        public void Update(int x, int y, int z, int value)
+        {
+            matrix[x, y, z].value = value;
+        }
+        
+    }
+}

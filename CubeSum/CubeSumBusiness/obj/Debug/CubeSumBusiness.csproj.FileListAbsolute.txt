@@ -1,0 +1,26 @@
+C:\Diego\Tests\Grability Rappi\Grability Rappi\CubeSum\CubeSumBusiness\obj\Debug\CubeSumBusiness.csprojResolveAssemblyReference.cache
+C:\Diego\Tests\Grability Rappi\Grability Rappi\CubeSum\CubeSumBusiness\bin\Debug\CubeSumBusiness.dll
+C:\Diego\Tests\Grability Rappi\Grability Rappi\CubeSum\CubeSumBusiness\bin\Debug\CubeSumBusiness.pdb
+C:\Diego\Tests\Grability Rappi\Grability Rappi\CubeSum\CubeSumBusiness\bin\Debug\CubeSumData.dll
+C:\Diego\Tests\Grability Rappi\Grability Rappi\CubeSum\CubeSumBusiness\bin\Debug\CubeSumModel.dll
+C:\Diego\Tests\Grability Rappi\Grability Rappi\CubeSum\CubeSumBusiness\bin\Debug\CubeSumDataBase.dll
+C:\Diego\Tests\Grability Rappi\Grability Rappi\CubeSum\CubeSumBusiness\bin\Debug\EntityFramework.dll
+C:\Diego\Tests\Grability Rappi\Grability Rappi\CubeSum\CubeSumBusiness\bin\Debug\CubeSumData.pdb
+C:\Diego\Tests\Grability Rappi\Grability Rappi\CubeSum\CubeSumBusiness\bin\Debug\CubeSumModel.pdb
+C:\Diego\Tests\Grability Rappi\Grability Rappi\CubeSum\CubeSumBusiness\bin\Debug\CubeSumDataBase.pdb
+C:\Diego\Tests\Grability Rappi\Grability Rappi\CubeSum\CubeSumBusiness\bin\Debug\EntityFramework.xml
+C:\Diego\Tests\Grability Rappi\Grability Rappi\CubeSum\CubeSumBusiness\obj\Debug\CubeSumBusiness.dll
+C:\Diego\Tests\Grability Rappi\Grability Rappi\CubeSum\CubeSumBusiness\obj\Debug\CubeSumBusiness.pdb
+D:\Tests\Grability Rappi\CubeSum\CubeSumBusiness\obj\Debug\CubeSumBusiness.csprojResolveAssemblyReference.cache
+D:\Tests\Grability Rappi\CubeSum\CubeSumBusiness\bin\Debug\CubeSumBusiness.dll
+D:\Tests\Grability Rappi\CubeSum\CubeSumBusiness\bin\Debug\CubeSumBusiness.pdb
+D:\Tests\Grability Rappi\CubeSum\CubeSumBusiness\bin\Debug\CubeSumData.dll
+D:\Tests\Grability Rappi\CubeSum\CubeSumBusiness\bin\Debug\CubeSumModel.dll
+D:\Tests\Grability Rappi\CubeSum\CubeSumBusiness\bin\Debug\CubeSumDataBase.dll
+D:\Tests\Grability Rappi\CubeSum\CubeSumBusiness\bin\Debug\EntityFramework.dll
+D:\Tests\Grability Rappi\CubeSum\CubeSumBusiness\bin\Debug\CubeSumData.pdb
+D:\Tests\Grability Rappi\CubeSum\CubeSumBusiness\bin\Debug\CubeSumModel.pdb
+D:\Tests\Grability Rappi\CubeSum\CubeSumBusiness\bin\Debug\CubeSumDataBase.pdb
+D:\Tests\Grability Rappi\CubeSum\CubeSumBusiness\bin\Debug\EntityFramework.xml
+D:\Tests\Grability Rappi\CubeSum\CubeSumBusiness\obj\Debug\CubeSumBusiness.dll
+D:\Tests\Grability Rappi\CubeSum\CubeSumBusiness\obj\Debug\CubeSumBusiness.pdb

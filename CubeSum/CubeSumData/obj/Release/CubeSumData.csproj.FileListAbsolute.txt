@@ -1,0 +1,3 @@
+C:\Diego\Tests\Grability Rappi\Grability Rappi\CubeSum\CubeSumData\obj\Release\CubeSumData.csprojResolveAssemblyReference.cache
+C:\Diego\Tests\Grability Rappi\Grability Rappi\CubeSum\CubeSumData\obj\Release\CubeSumData.Properties.Resources.resources
+C:\Diego\Tests\Grability Rappi\Grability Rappi\CubeSum\CubeSumData\obj\Release\CubeSumData.csproj.GenerateResource.Cache

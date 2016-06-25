@@ -1,0 +1,35 @@
+C:\Diego\Tests\Grability Rappi\Grability Rappi\CubeSum\WebClient\obj\Debug\WebClient.csprojResolveAssemblyReference.cache
+C:\Diego\Tests\Grability Rappi\Grability Rappi\CubeSum\WebClient\bin\WebClient.dll.config
+C:\Diego\Tests\Grability Rappi\Grability Rappi\CubeSum\WebClient\bin\WebClient.dll
+C:\Diego\Tests\Grability Rappi\Grability Rappi\CubeSum\WebClient\bin\WebClient.pdb
+C:\Diego\Tests\Grability Rappi\Grability Rappi\CubeSum\WebClient\bin\CubeSumBusiness.dll
+C:\Diego\Tests\Grability Rappi\Grability Rappi\CubeSum\WebClient\bin\CubeSumModel.dll
+C:\Diego\Tests\Grability Rappi\Grability Rappi\CubeSum\WebClient\bin\CubeSumData.dll
+C:\Diego\Tests\Grability Rappi\Grability Rappi\CubeSum\WebClient\bin\CubeSumDataBase.dll
+C:\Diego\Tests\Grability Rappi\Grability Rappi\CubeSum\WebClient\bin\EntityFramework.dll
+C:\Diego\Tests\Grability Rappi\Grability Rappi\CubeSum\WebClient\bin\CubeSumBusiness.pdb
+C:\Diego\Tests\Grability Rappi\Grability Rappi\CubeSum\WebClient\bin\CubeSumModel.pdb
+C:\Diego\Tests\Grability Rappi\Grability Rappi\CubeSum\WebClient\bin\CubeSumData.pdb
+C:\Diego\Tests\Grability Rappi\Grability Rappi\CubeSum\WebClient\bin\CubeSumDataBase.pdb
+C:\Diego\Tests\Grability Rappi\Grability Rappi\CubeSum\WebClient\bin\EntityFramework.xml
+C:\Diego\Tests\Grability Rappi\Grability Rappi\CubeSum\WebClient\obj\Debug\WebClient.dll
+C:\Diego\Tests\Grability Rappi\Grability Rappi\CubeSum\WebClient\obj\Debug\WebClient.pdb
+C:\Diego\Tests\Grability Rappi\Grability Rappi\CubeSum\WebClient\bin\EntityFramework.SqlServer.dll
+C:\Diego\Tests\Grability Rappi\Grability Rappi\CubeSum\WebClient\bin\EntityFramework.SqlServer.xml
+D:\Tests\Grability Rappi\CubeSum\WebClient\obj\Debug\WebClient.csprojResolveAssemblyReference.cache
+D:\Tests\Grability Rappi\CubeSum\WebClient\bin\WebClient.dll
+D:\Tests\Grability Rappi\CubeSum\WebClient\bin\WebClient.pdb
+D:\Tests\Grability Rappi\CubeSum\WebClient\bin\CubeSumBusiness.dll
+D:\Tests\Grability Rappi\CubeSum\WebClient\bin\CubeSumModel.dll
+D:\Tests\Grability Rappi\CubeSum\WebClient\bin\EntityFramework.dll
+D:\Tests\Grability Rappi\CubeSum\WebClient\bin\EntityFramework.SqlServer.dll
+D:\Tests\Grability Rappi\CubeSum\WebClient\bin\CubeSumData.dll
+D:\Tests\Grability Rappi\CubeSum\WebClient\bin\CubeSumDataBase.dll
+D:\Tests\Grability Rappi\CubeSum\WebClient\bin\CubeSumBusiness.pdb
+D:\Tests\Grability Rappi\CubeSum\WebClient\bin\CubeSumModel.pdb
+D:\Tests\Grability Rappi\CubeSum\WebClient\bin\EntityFramework.xml
+D:\Tests\Grability Rappi\CubeSum\WebClient\bin\EntityFramework.SqlServer.xml
+D:\Tests\Grability Rappi\CubeSum\WebClient\bin\CubeSumData.pdb
+D:\Tests\Grability Rappi\CubeSum\WebClient\bin\CubeSumDataBase.pdb
+D:\Tests\Grability Rappi\CubeSum\WebClient\obj\Debug\WebClient.dll
+D:\Tests\Grability Rappi\CubeSum\WebClient\obj\Debug\WebClient.pdb

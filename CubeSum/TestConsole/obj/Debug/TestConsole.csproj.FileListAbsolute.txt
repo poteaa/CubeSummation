@@ -1,0 +1,36 @@
+D:\Tests\Grability Rappi\CubeSum\TestConsole\bin\Debug\TestConsole.exe.config
+D:\Tests\Grability Rappi\CubeSum\TestConsole\bin\Debug\TestConsole.exe
+D:\Tests\Grability Rappi\CubeSum\TestConsole\bin\Debug\TestConsole.pdb
+D:\Tests\Grability Rappi\CubeSum\TestConsole\bin\Debug\CubeSumBusiness.dll
+D:\Tests\Grability Rappi\CubeSum\TestConsole\bin\Debug\CubeSumData.dll
+D:\Tests\Grability Rappi\CubeSum\TestConsole\bin\Debug\EntityFramework.dll
+D:\Tests\Grability Rappi\CubeSum\TestConsole\bin\Debug\EntityFramework.SqlServer.dll
+D:\Tests\Grability Rappi\CubeSum\TestConsole\bin\Debug\CubeSumDataBase.dll
+D:\Tests\Grability Rappi\CubeSum\TestConsole\bin\Debug\CubeSumBusiness.pdb
+D:\Tests\Grability Rappi\CubeSum\TestConsole\bin\Debug\CubeSumData.pdb
+D:\Tests\Grability Rappi\CubeSum\TestConsole\bin\Debug\EntityFramework.xml
+D:\Tests\Grability Rappi\CubeSum\TestConsole\bin\Debug\EntityFramework.SqlServer.xml
+D:\Tests\Grability Rappi\CubeSum\TestConsole\bin\Debug\CubeSumDataBase.pdb
+D:\Tests\Grability Rappi\CubeSum\TestConsole\obj\Debug\TestConsole.csprojResolveAssemblyReference.cache
+D:\Tests\Grability Rappi\CubeSum\TestConsole\obj\Debug\TestConsole.exe
+D:\Tests\Grability Rappi\CubeSum\TestConsole\obj\Debug\TestConsole.pdb
+D:\Tests\Grability Rappi\CubeSum\TestConsole\bin\Debug\CubeSumModel.dll
+D:\Tests\Grability Rappi\CubeSum\TestConsole\bin\Debug\CubeSumModel.pdb
+C:\Diego\Tests\Grability Rappi\Grability Rappi\CubeSum\TestConsole\obj\Debug\TestConsole.csprojResolveAssemblyReference.cache
+C:\Diego\Tests\Grability Rappi\Grability Rappi\CubeSum\TestConsole\bin\Debug\TestConsole.exe.config
+C:\Diego\Tests\Grability Rappi\Grability Rappi\CubeSum\TestConsole\bin\Debug\TestConsole.exe
+C:\Diego\Tests\Grability Rappi\Grability Rappi\CubeSum\TestConsole\bin\Debug\TestConsole.pdb
+C:\Diego\Tests\Grability Rappi\Grability Rappi\CubeSum\TestConsole\bin\Debug\CubeSumBusiness.dll
+C:\Diego\Tests\Grability Rappi\Grability Rappi\CubeSum\TestConsole\bin\Debug\CubeSumData.dll
+C:\Diego\Tests\Grability Rappi\Grability Rappi\CubeSum\TestConsole\bin\Debug\CubeSumModel.dll
+C:\Diego\Tests\Grability Rappi\Grability Rappi\CubeSum\TestConsole\bin\Debug\EntityFramework.dll
+C:\Diego\Tests\Grability Rappi\Grability Rappi\CubeSum\TestConsole\bin\Debug\EntityFramework.SqlServer.dll
+C:\Diego\Tests\Grability Rappi\Grability Rappi\CubeSum\TestConsole\bin\Debug\CubeSumDataBase.dll
+C:\Diego\Tests\Grability Rappi\Grability Rappi\CubeSum\TestConsole\bin\Debug\CubeSumBusiness.pdb
+C:\Diego\Tests\Grability Rappi\Grability Rappi\CubeSum\TestConsole\bin\Debug\CubeSumData.pdb
+C:\Diego\Tests\Grability Rappi\Grability Rappi\CubeSum\TestConsole\bin\Debug\CubeSumModel.pdb
+C:\Diego\Tests\Grability Rappi\Grability Rappi\CubeSum\TestConsole\bin\Debug\EntityFramework.xml
+C:\Diego\Tests\Grability Rappi\Grability Rappi\CubeSum\TestConsole\bin\Debug\EntityFramework.SqlServer.xml
+C:\Diego\Tests\Grability Rappi\Grability Rappi\CubeSum\TestConsole\bin\Debug\CubeSumDataBase.pdb
+C:\Diego\Tests\Grability Rappi\Grability Rappi\CubeSum\TestConsole\obj\Debug\TestConsole.exe
+C:\Diego\Tests\Grability Rappi\Grability Rappi\CubeSum\TestConsole\obj\Debug\TestConsole.pdb
